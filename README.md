@@ -4,7 +4,7 @@
 
 Submitted by: **Rudransh Singh**
 
-Time spent: **45mins** hours spent in total
+Time spent: **45mins**  spent in total
 
 ## User Stories
 
